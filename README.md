@@ -2,7 +2,7 @@
 
 ## Resumen
 
-Debido a que la mayoría de la información recopilada sobre el COVID-19 en Chile estaba solo a nivel nacional se decidió recopilar información de la cantidad de  contagiados y fallecidos **por región** desde el primer contagiado en Chile, el 3 de marzo de 2019 hasta el 5 de abril de 2019.  Posterior a esto, empezó a utilizar el webscrapping rellenando de manera automática el archivo *coronavirus.csv* con los nuevos datos proporcionados por el gobierno en el sitio https://www.gob.cl/coronavirus/cifrasoficiales.
+Debido a que la mayoría de la información recopilada sobre el COVID-19 en Chile estaba solo a nivel nacional se decidió recopilar información de la cantidad de  contagiados y fallecidos **por región** desde el primer contagiado en Chile, el 3 de marzo de 2019 hasta el 5 de abril de 2019.  Posterior a esto, empezó a utilizar el web scrapping rellenando de manera automática el archivo *coronavirus.csv* con los nuevos datos proporcionados por el gobierno en el sitio https://www.gob.cl/coronavirus/cifrasoficiales.
 
 ## ¿Cómo funciona?
 
@@ -35,7 +35,7 @@ Ejemplo: primer día de contagio en Chile (03 de marzo de 2019).
 
 ## Uso
 
-La idea es simplemente consumir coronavirus.csv sin la necesidad de pasar por alguna API.
+La idea es simplemente consumir *coronavirus.csv* sin la necesidad de pasar por alguna API.
 
 Una de las utilidades que le podemos dar a esto es cargar el archivo a power bi y generar reportes con los datos. Además power bi tiene la opción de actualizar la fuente de datos de manera automática dejando el trabajo totalmente automatizado.
 
@@ -47,4 +47,4 @@ Gráfico generado en Power BI.
 
 ## Nota
 
-Se empleó una verificación simple en la comunicación con la api a modo de ejemplo.
+Se empleó una verificación simple en la comunicación con la API a modo de ejemplo.
