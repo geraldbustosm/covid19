@@ -1,0 +1,545 @@
+﻿Región,Fecha,Contagiados,Decesos
+Arica y Parinacota,03-03-2020,0,0
+Arica y Parinacota,04-03-2020,0,0
+Arica y Parinacota,05-03-2020,0,0
+Arica y Parinacota,06-03-2020,0,0
+Arica y Parinacota,07-03-2020,0,0
+Arica y Parinacota,08-03-2020,0,0
+Arica y Parinacota,09-03-2020,0,0
+Arica y Parinacota,10-03-2020,0,0
+Arica y Parinacota,11-03-2020,0,0
+Arica y Parinacota,12-03-2020,0,0
+Arica y Parinacota,13-03-2020,0,0
+Arica y Parinacota,14-03-2020,0,0
+Arica y Parinacota,15-03-2020,0,0
+Arica y Parinacota,16-03-2020,0,0
+Arica y Parinacota,17-03-2020,0,0
+Arica y Parinacota,18-03-2020,0,0
+Arica y Parinacota,19-03-2020,1,0
+Arica y Parinacota,20-03-2020,1,0
+Arica y Parinacota,21-03-2020,1,0
+Arica y Parinacota,22-03-2020,2,0
+Arica y Parinacota,23-03-2020,2,0
+Arica y Parinacota,24-03-2020,2,0
+Arica y Parinacota,25-03-2020,2,0
+Arica y Parinacota,26-03-2020,3,0
+Arica y Parinacota,27-03-2020,3,0
+Arica y Parinacota,28-03-2020,3,0
+Arica y Parinacota,29-03-2020,4,0
+Arica y Parinacota,30-03-2020,6,0
+Arica y Parinacota,31-03-2020,6,0
+Arica y Parinacota,01-04-2020,6,0
+Arica y Parinacota,02-04-2020,7,0
+Arica y Parinacota,03-04-2020,12,0
+Arica y Parinacota,04-04-2020,12,0
+Arica y Parinacota,05-04-2020,28,0
+Tarapacá,03-03-2020,0,0
+Tarapacá,04-03-2020,0,0
+Tarapacá,05-03-2020,0,0
+Tarapacá,06-03-2020,0,0
+Tarapacá,07-03-2020,0,0
+Tarapacá,08-03-2020,0,0
+Tarapacá,09-03-2020,0,0
+Tarapacá,10-03-2020,0,0
+Tarapacá,11-03-2020,0,0
+Tarapacá,12-03-2020,0,0
+Tarapacá,13-03-2020,0,0
+Tarapacá,14-03-2020,0,0
+Tarapacá,15-03-2020,0,0
+Tarapacá,16-03-2020,0,0
+Tarapacá,17-03-2020,0,0
+Tarapacá,18-03-2020,0,0
+Tarapacá,19-03-2020,0,0
+Tarapacá,20-03-2020,0,0
+Tarapacá,21-03-2020,0,0
+Tarapacá,22-03-2020,0,0
+Tarapacá,23-03-2020,1,0
+Tarapacá,24-03-2020,4,0
+Tarapacá,25-03-2020,4,0
+Tarapacá,26-03-2020,5,0
+Tarapacá,27-03-2020,5,0
+Tarapacá,28-03-2020,5,0
+Tarapacá,29-03-2020,6,0
+Tarapacá,30-03-2020,8,0
+Tarapacá,31-03-2020,10,0
+Tarapacá,01-04-2020,10,0
+Tarapacá,02-04-2020,12,0
+Tarapacá,03-04-2020,13,0
+Tarapacá,04-04-2020,17,0
+Tarapacá,05-04-2020,20,0
+Antofagasta,03-03-2020,0,0
+Antofagasta,04-03-2020,0,0
+Antofagasta,05-03-2020,0,0
+Antofagasta,06-03-2020,0,0
+Antofagasta,07-03-2020,0,0
+Antofagasta,08-03-2020,0,0
+Antofagasta,09-03-2020,0,0
+Antofagasta,10-03-2020,0,0
+Antofagasta,11-03-2020,0,0
+Antofagasta,12-03-2020,0,0
+Antofagasta,13-03-2020,0,0
+Antofagasta,14-03-2020,2,0
+Antofagasta,15-03-2020,2,0
+Antofagasta,16-03-2020,2,0
+Antofagasta,17-03-2020,2,0
+Antofagasta,18-03-2020,2,0
+Antofagasta,19-03-2020,2,0
+Antofagasta,20-03-2020,6,0
+Antofagasta,21-03-2020,10,0
+Antofagasta,22-03-2020,11,0
+Antofagasta,23-03-2020,11,0
+Antofagasta,24-03-2020,13,0
+Antofagasta,25-03-2020,19,0
+Antofagasta,26-03-2020,20,0
+Antofagasta,27-03-2020,21,0
+Antofagasta,28-03-2020,25,0
+Antofagasta,29-03-2020,27,0
+Antofagasta,30-03-2020,35,0
+Antofagasta,31-03-2020,35,0
+Antofagasta,01-04-2020,39,0
+Antofagasta,02-04-2020,47,0
+Antofagasta,03-04-2020,54,0
+Antofagasta,04-04-2020,55,0
+Antofagasta,05-04-2020,60,0
+Atacama,03-03-2020,0,0
+Atacama,04-03-2020,0,0
+Atacama,05-03-2020,0,0
+Atacama,06-03-2020,0,0
+Atacama,07-03-2020,0,0
+Atacama,08-03-2020,0,0
+Atacama,09-03-2020,0,0
+Atacama,10-03-2020,0,0
+Atacama,11-03-2020,0,0
+Atacama,12-03-2020,0,0
+Atacama,13-03-2020,0,0
+Atacama,14-03-2020,1,0
+Atacama,15-03-2020,1,0
+Atacama,16-03-2020,1,0
+Atacama,17-03-2020,1,0
+Atacama,18-03-2020,1,0
+Atacama,19-03-2020,1,0
+Atacama,20-03-2020,1,0
+Atacama,21-03-2020,1,0
+Atacama,22-03-2020,1,0
+Atacama,23-03-2020,1,0
+Atacama,24-03-2020,1,0
+Atacama,25-03-2020,1,0
+Atacama,26-03-2020,1,0
+Atacama,27-03-2020,1,0
+Atacama,28-03-2020,1,0
+Atacama,29-03-2020,2,0
+Atacama,30-03-2020,2,0
+Atacama,31-03-2020,2,0
+Atacama,01-04-2020,3,0
+Atacama,02-04-2020,3,0
+Atacama,03-04-2020,5,0
+Atacama,04-04-2020,5,0
+Atacama,05-04-2020,5,0
+Coquimbo,03-03-2020,0,0
+Coquimbo,04-03-2020,0,0
+Coquimbo,05-03-2020,0,0
+Coquimbo,06-03-2020,0,0
+Coquimbo,07-03-2020,0,0
+Coquimbo,08-03-2020,0,0
+Coquimbo,09-03-2020,0,0
+Coquimbo,10-03-2020,0,0
+Coquimbo,11-03-2020,0,0
+Coquimbo,12-03-2020,0,0
+Coquimbo,13-03-2020,0,0
+Coquimbo,14-03-2020,0,0
+Coquimbo,15-03-2020,0,0
+Coquimbo,16-03-2020,0,0
+Coquimbo,17-03-2020,0,0
+Coquimbo,18-03-2020,0,0
+Coquimbo,19-03-2020,2,0
+Coquimbo,20-03-2020,3,0
+Coquimbo,21-03-2020,3,0
+Coquimbo,22-03-2020,5,0
+Coquimbo,23-03-2020,6,0
+Coquimbo,24-03-2020,11,0
+Coquimbo,25-03-2020,12,0
+Coquimbo,26-03-2020,13,0
+Coquimbo,27-03-2020,14,0
+Coquimbo,28-03-2020,15,0
+Coquimbo,29-03-2020,18,0
+Coquimbo,30-03-2020,27,0
+Coquimbo,31-03-2020,28,0
+Coquimbo,01-04-2020,30,0
+Coquimbo,02-04-2020,34,0
+Coquimbo,03-04-2020,35,0
+Coquimbo,04-04-2020,44,0
+Coquimbo,05-04-2020,50,0
+Valparaíso,03-03-2020,0,0
+Valparaíso,04-03-2020,0,0
+Valparaíso,05-03-2020,0,0
+Valparaíso,06-03-2020,0,0
+Valparaíso,07-03-2020,0,0
+Valparaíso,08-03-2020,0,0
+Valparaíso,09-03-2020,0,0
+Valparaíso,10-03-2020,0,0
+Valparaíso,11-03-2020,0,0
+Valparaíso,12-03-2020,0,0
+Valparaíso,13-03-2020,0,0
+Valparaíso,14-03-2020,0,0
+Valparaíso,15-03-2020,0,0
+Valparaíso,16-03-2020,1,0
+Valparaíso,17-03-2020,1,0
+Valparaíso,18-03-2020,1,0
+Valparaíso,19-03-2020,4,0
+Valparaíso,20-03-2020,5,0
+Valparaíso,21-03-2020,13,0
+Valparaíso,22-03-2020,16,0
+Valparaíso,23-03-2020,19,0
+Valparaíso,24-03-2020,25,0
+Valparaíso,25-03-2020,32,0
+Valparaíso,26-03-2020,44,0
+Valparaíso,27-03-2020,49,0
+Valparaíso,28-03-2020,71,0
+Valparaíso,29-03-2020,80,0
+Valparaíso,30-03-2020,108,0
+Valparaíso,31-03-2020,115,1
+Valparaíso,01-04-2020,136,1
+Valparaíso,02-04-2020,156,1
+Valparaíso,03-04-2020,176,1
+Valparaíso,04-04-2020,185,1
+Valparaíso,05-04-2020,191,1
+RM,03-03-2020,0,0
+RM,04-03-2020,1,0
+RM,05-03-2020,2,0
+RM,06-03-2020,3,0
+RM,07-03-2020,4,0
+RM,08-03-2020,6,0
+RM,09-03-2020,7,0
+RM,10-03-2020,10,0
+RM,11-03-2020,14,0
+RM,12-03-2020,23,0
+RM,13-03-2020,29,0
+RM,14-03-2020,40,0
+RM,15-03-2020,54,0
+RM,16-03-2020,123,0
+RM,17-03-2020,152,0
+RM,18-03-2020,174,0
+RM,19-03-2020,247,0
+RM,20-03-2020,304,0
+RM,21-03-2020,359,1
+RM,22-03-2020,409,1
+RM,23-03-2020,459,2
+RM,24-03-2020,540,2
+RM,25-03-2020,682,2
+RM,26-03-2020,746,2
+RM,27-03-2020,938,3
+RM,28-03-2020,1084,3
+RM,29-03-2020,1167,3
+RM,30-03-2020,1295,3
+RM,31-03-2020,1420,4
+RM,01-04-2020,1521,5
+RM,02-04-2020,1636,6
+RM,03-04-2020,1742,8
+RM,04-04-2020,1957,9
+RM,05-04-2020,2102,10
+O’Higgins,03-03-2020,0,0
+O’Higgins,04-03-2020,0,0
+O’Higgins,05-03-2020,0,0
+O’Higgins,06-03-2020,0,0
+O’Higgins,07-03-2020,0,0
+O’Higgins,08-03-2020,0,0
+O’Higgins,09-03-2020,0,0
+O’Higgins,10-03-2020,0,0
+O’Higgins,11-03-2020,0,0
+O’Higgins,12-03-2020,0,0
+O’Higgins,13-03-2020,0,0
+O’Higgins,14-03-2020,0,0
+O’Higgins,15-03-2020,0,0
+O’Higgins,16-03-2020,0,0
+O’Higgins,17-03-2020,0,0
+O’Higgins,18-03-2020,0,0
+O’Higgins,19-03-2020,2,0
+O’Higgins,20-03-2020,6,0
+O’Higgins,21-03-2020,7,0
+O’Higgins,22-03-2020,8,0
+O’Higgins,23-03-2020,8,0
+O’Higgins,24-03-2020,9,0
+O’Higgins,25-03-2020,11,0
+O’Higgins,26-03-2020,14,0
+O’Higgins,27-03-2020,16,0
+O’Higgins,28-03-2020,20,0
+O’Higgins,29-03-2020,21,0
+O’Higgins,30-03-2020,21,0
+O’Higgins,31-03-2020,23,0
+O’Higgins,01-04-2020,26,0
+O’Higgins,02-04-2020,32,0
+O’Higgins,03-04-2020,33,0
+O’Higgins,04-04-2020,38,0
+O’Higgins,05-04-2020,41,0
+Maule,03-03-2020,1,0
+Maule,04-03-2020,2,0
+Maule,05-03-2020,2,0
+Maule,06-03-2020,2,0
+Maule,07-03-2020,2,0
+Maule,08-03-2020,3,0
+Maule,09-03-2020,4,0
+Maule,10-03-2020,5,0
+Maule,11-03-2020,7,0
+Maule,12-03-2020,7,0
+Maule,13-03-2020,8,0
+Maule,14-03-2020,9,0
+Maule,15-03-2020,9,0
+Maule,16-03-2020,9,0
+Maule,17-03-2020,9,0
+Maule,18-03-2020,11,0
+Maule,19-03-2020,14,0
+Maule,20-03-2020,14,0
+Maule,21-03-2020,15,0
+Maule,22-03-2020,25,0
+Maule,23-03-2020,28,0
+Maule,24-03-2020,29,0
+Maule,25-03-2020,30,0
+Maule,26-03-2020,31,0
+Maule,27-03-2020,32,0
+Maule,28-03-2020,37,0
+Maule,29-03-2020,42,0
+Maule,30-03-2020,54,1
+Maule,31-03-2020,62,1
+Maule,01-04-2020,71,1
+Maule,02-04-2020,82,1
+Maule,03-04-2020,89,1
+Maule,04-04-2020,97,1
+Maule,05-04-2020,103,1
+Ñuble,03-03-2020,0,0
+Ñuble,04-03-2020,0,0
+Ñuble,05-03-2020,0,0
+Ñuble,06-03-2020,0,0
+Ñuble,07-03-2020,0,0
+Ñuble,08-03-2020,0,0
+Ñuble,09-03-2020,0,0
+Ñuble,10-03-2020,0,0
+Ñuble,11-03-2020,0,0
+Ñuble,12-03-2020,1,0
+Ñuble,13-03-2020,2,0
+Ñuble,14-03-2020,4,0
+Ñuble,15-03-2020,4,0
+Ñuble,16-03-2020,12,0
+Ñuble,17-03-2020,26,0
+Ñuble,18-03-2020,26,0
+Ñuble,19-03-2020,28,0
+Ñuble,20-03-2020,44,0
+Ñuble,21-03-2020,58,0
+Ñuble,22-03-2020,64,0
+Ñuble,23-03-2020,81,0
+Ñuble,24-03-2020,105,0
+Ñuble,25-03-2020,111,0
+Ñuble,26-03-2020,114,0
+Ñuble,27-03-2020,144,0
+Ñuble,28-03-2020,172,0
+Ñuble,29-03-2020,197,0
+Ñuble,30-03-2020,229,0
+Ñuble,31-03-2020,245,0
+Ñuble,01-04-2020,259,0
+Ñuble,02-04-2020,341,0
+Ñuble,03-04-2020,370,1
+Ñuble,04-04-2020,401,2
+Ñuble,05-04-2020,425,3
+Biobío,03-03-2020,0,0
+Biobío,04-03-2020,0,0
+Biobío,05-03-2020,0,0
+Biobío,06-03-2020,0,0
+Biobío,07-03-2020,0,0
+Biobío,08-03-2020,0,0
+Biobío,09-03-2020,1,0
+Biobío,10-03-2020,1,0
+Biobío,11-03-2020,1,0
+Biobío,12-03-2020,1,0
+Biobío,13-03-2020,3,0
+Biobío,14-03-2020,3,0
+Biobío,15-03-2020,3,0
+Biobío,16-03-2020,4,0
+Biobío,17-03-2020,4,0
+Biobío,18-03-2020,7,0
+Biobío,19-03-2020,14,0
+Biobío,20-03-2020,19,0
+Biobío,21-03-2020,30,0
+Biobío,22-03-2020,35,0
+Biobío,23-03-2020,46,0
+Biobío,24-03-2020,73,0
+Biobío,25-03-2020,95,1
+Biobío,26-03-2020,109,2
+Biobío,27-03-2020,135,2
+Biobío,28-03-2020,151,2
+Biobío,29-03-2020,185,2
+Biobío,30-03-2020,201,2
+Biobío,31-03-2020,216,2
+Biobío,01-04-2020,240,2
+Biobío,02-04-2020,275,2
+Biobío,03-04-2020,302,2
+Biobío,04-04-2020,347,2
+Biobío,05-04-2020,365,2
+Araucanía,03-03-2020,0,0
+Araucanía,04-03-2020,0,0
+Araucanía,05-03-2020,0,0
+Araucanía,06-03-2020,0,0
+Araucanía,07-03-2020,0,0
+Araucanía,08-03-2020,0,0
+Araucanía,09-03-2020,0,0
+Araucanía,10-03-2020,0,0
+Araucanía,11-03-2020,0,0
+Araucanía,12-03-2020,0,0
+Araucanía,13-03-2020,0,0
+Araucanía,14-03-2020,0,0
+Araucanía,15-03-2020,0,0
+Araucanía,16-03-2020,1,0
+Araucanía,17-03-2020,1,0
+Araucanía,18-03-2020,4,0
+Araucanía,19-03-2020,7,0
+Araucanía,20-03-2020,9,0
+Araucanía,21-03-2020,15,0
+Araucanía,22-03-2020,27,0
+Araucanía,23-03-2020,40,0
+Araucanía,24-03-2020,59,0
+Araucanía,25-03-2020,74,0
+Araucanía,26-03-2020,111,0
+Araucanía,27-03-2020,143,0
+Araucanía,28-03-2020,177,1
+Araucanía,29-03-2020,205,2
+Araucanía,30-03-2020,247,2
+Araucanía,31-03-2020,302,4
+Araucanía,01-04-2020,343,6
+Araucanía,02-04-2020,389,7
+Araucanía,03-04-2020,432,7
+Araucanía,04-04-2020,477,9
+Araucanía,05-04-2020,509,13
+Los Ríos,03-03-2020,0,0
+Los Ríos,04-03-2020,0,0
+Los Ríos,05-03-2020,0,0
+Los Ríos,06-03-2020,0,0
+Los Ríos,07-03-2020,0,0
+Los Ríos,08-03-2020,0,0
+Los Ríos,09-03-2020,0,0
+Los Ríos,10-03-2020,0,0
+Los Ríos,11-03-2020,0,0
+Los Ríos,12-03-2020,0,0
+Los Ríos,13-03-2020,0,0
+Los Ríos,14-03-2020,0,0
+Los Ríos,15-03-2020,0,0
+Los Ríos,16-03-2020,1,0
+Los Ríos,17-03-2020,1,0
+Los Ríos,18-03-2020,1,0
+Los Ríos,19-03-2020,1,0
+Los Ríos,20-03-2020,1,0
+Los Ríos,21-03-2020,1,0
+Los Ríos,22-03-2020,1,0
+Los Ríos,23-03-2020,4,0
+Los Ríos,24-03-2020,6,0
+Los Ríos,25-03-2020,11,0
+Los Ríos,26-03-2020,14,0
+Los Ríos,27-03-2020,22,0
+Los Ríos,28-03-2020,27,0
+Los Ríos,29-03-2020,40,0
+Los Ríos,30-03-2020,47,0
+Los Ríos,31-03-2020,58,0
+Los Ríos,01-04-2020,64,0
+Los Ríos,02-04-2020,68,0
+Los Ríos,03-04-2020,78,0
+Los Ríos,04-04-2020,89,0
+Los Ríos,05-04-2020,99,1
+Los Lagos,03-03-2020,0,0
+Los Lagos,04-03-2020,0,0
+Los Lagos,05-03-2020,0,0
+Los Lagos,06-03-2020,0,0
+Los Lagos,07-03-2020,1,0
+Los Lagos,08-03-2020,1,0
+Los Lagos,09-03-2020,1,0
+Los Lagos,10-03-2020,1,0
+Los Lagos,11-03-2020,1,0
+Los Lagos,12-03-2020,1,0
+Los Lagos,13-03-2020,1,0
+Los Lagos,14-03-2020,1,0
+Los Lagos,15-03-2020,1,0
+Los Lagos,16-03-2020,1,0
+Los Lagos,17-03-2020,1,0
+Los Lagos,18-03-2020,8,0
+Los Lagos,19-03-2020,16,0
+Los Lagos,20-03-2020,18,0
+Los Lagos,21-03-2020,20,0
+Los Lagos,22-03-2020,23,0
+Los Lagos,23-03-2020,33,0
+Los Lagos,24-03-2020,36,0
+Los Lagos,25-03-2020,44,0
+Los Lagos,26-03-2020,60,0
+Los Lagos,27-03-2020,63,0
+Los Lagos,28-03-2020,93,0
+Los Lagos,29-03-2020,104,0
+Los Lagos,30-03-2020,128,0
+Los Lagos,31-03-2020,151,0
+Los Lagos,01-04-2020,181,0
+Los Lagos,02-04-2020,203,0
+Los Lagos,03-04-2020,234,0
+Los Lagos,04-04-2020,259,0
+Los Lagos,05-04-2020,276,1
+Aysén,03-03-2020,0,0
+Aysén,04-03-2020,0,0
+Aysén,05-03-2020,0,0
+Aysén,06-03-2020,0,0
+Aysén,07-03-2020,0,0
+Aysén,08-03-2020,0,0
+Aysén,09-03-2020,0,0
+Aysén,10-03-2020,0,0
+Aysén,11-03-2020,0,0
+Aysén,12-03-2020,0,0
+Aysén,13-03-2020,0,0
+Aysén,14-03-2020,1,0
+Aysén,15-03-2020,1,0
+Aysén,16-03-2020,1,0
+Aysén,17-03-2020,1,0
+Aysén,18-03-2020,1,0
+Aysén,19-03-2020,1,0
+Aysén,20-03-2020,1,0
+Aysén,21-03-2020,1,0
+Aysén,22-03-2020,1,0
+Aysén,23-03-2020,1,0
+Aysén,24-03-2020,1,0
+Aysén,25-03-2020,1,0
+Aysén,26-03-2020,2,0
+Aysén,27-03-2020,2,0
+Aysén,28-03-2020,2,0
+Aysén,29-03-2020,2,0
+Aysén,30-03-2020,2,0
+Aysén,31-03-2020,2,0
+Aysén,01-04-2020,3,0
+Aysén,02-04-2020,5,0
+Aysén,03-04-2020,6,0
+Aysén,04-04-2020,6,0
+Aysén,05-04-2020,7,0
+Magallanes,03-03-2020,0,0
+Magallanes,04-03-2020,0,0
+Magallanes,05-03-2020,0,0
+Magallanes,06-03-2020,0,0
+Magallanes,07-03-2020,0,0
+Magallanes,08-03-2020,0,0
+Magallanes,09-03-2020,0,0
+Magallanes,10-03-2020,0,0
+Magallanes,11-03-2020,0,0
+Magallanes,12-03-2020,0,0
+Magallanes,13-03-2020,0,0
+Magallanes,14-03-2020,0,0
+Magallanes,15-03-2020,0,0
+Magallanes,16-03-2020,0,0
+Magallanes,17-03-2020,2,0
+Magallanes,18-03-2020,2,0
+Magallanes,19-03-2020,2,0
+Magallanes,20-03-2020,2,0
+Magallanes,21-03-2020,3,0
+Magallanes,22-03-2020,4,0
+Magallanes,23-03-2020,6,0
+Magallanes,24-03-2020,8,0
+Magallanes,25-03-2020,13,0
+Magallanes,26-03-2020,19,0
+Magallanes,27-03-2020,22,0
+Magallanes,28-03-2020,26,0
+Magallanes,29-03-2020,39,0
+Magallanes,30-03-2020,39,0
+Magallanes,31-03-2020,63,0
+Magallanes,01-04-2020,99,0
+Magallanes,02-04-2020,114,0
+Magallanes,03-04-2020,156,1
+Magallanes,04-04-2020,172,2
+Magallanes,05-04-2020,190,2
