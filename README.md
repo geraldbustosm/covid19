@@ -2,15 +2,13 @@
 
 ## Resumen
 
-Debido a que la mayoría de la información recopilada sobre el COVID-19 en Chile estaba solo a nivel nacional se decidió recopilar información de la cantidad de  contagiados y fallecidos **por región** desde el primer contagiado en Chile, el 3 de marzo de 2019 hasta el 5 de abril de 2019.  Posterior a esto, empezó a utilizar el web scrapping rellenando de manera automática el archivo *coronavirus.csv* con los nuevos datos proporcionados por el gobierno en el sitio https://www.gob.cl/coronavirus/cifrasoficiales.
+Debido a que la mayoría de la información recopilada sobre el COVID-19 en Chile estaba solo a nivel nacional se decidió recopilar datos de la cantidad de contagiados y fallecidos **por región** desde el primer contagiado en Chile, el 3 de marzo de 2019 hasta el 5 de abril de 2019.  Luego, empezó a utilizarse web scrapping rellenando de manera automática el archivo *coronavirus.csv* con los nuevos datos proporcionados por el gobierno en el sitio https://www.gob.cl/coronavirus/cifrasoficiales.
 
 ## ¿Cómo funciona?
 
 Se realiza el scrapping a https://e.infogram.com/d9e30e4b-e63c-4e02-a72a-eca4653f3283, puesto que allí se contienen los datos. Este infograma esta insertado en un iframe dentro de https://www.gob.cl/coronavirus/cifrasoficiales. 
 
-Posterior a eso, se envian los datos a una API en PHP que luego de recibirla analiza el JSON entrante y añade nuevas filas a coronavirus.csv
-
-Se sobreescribe el archivo *coronavirus.csv* que inicialmente tenia los datos ingresados manualmente.
+Posterior a eso, se envian los datos a una API en PHP que luego de recibirla analiza el JSON entrante y añade nuevas filas a *coronavirus.csv* y finalmente se sobreescribe el archivo.
 
 Este script se ejecuta todos los días a las 11:40 am (minutos previos a esta hora ya está actualizada la tabla en la pagina del gobierno) gracias a la ejecución en la nube de *scrapping.py*.
 
