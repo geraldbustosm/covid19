@@ -6,7 +6,13 @@ Debido a que la mayoría de la información recopilada sobre el COVID-19 en Chil
 
 ## ¿Cómo funciona?
 
-Se almacena el archivo *coronavirus.csv* en http://geraldbustos.000webhostapp.com/coronavirus.csv el cual se actualiza automáticamente todos los días a las 11:40 am (minutos previos a esta hora ya está actualizada la tabla en la pagina del gobierno) gracias a la ejecución en la nube de *scrapping.py*.
+Se realiza el scrapping a https://e.infogram.com/d9e30e4b-e63c-4e02-a72a-eca4653f3283, puesto que allí se contienen los datos. Este infograma esta insertado en un iframe dentro de https://www.gob.cl/coronavirus/cifrasoficiales. 
+
+Posterior a eso, se envian los datos a una API en PHP que luego de recibirla analiza el JSON entrante y añade nuevas filas a coronavirus.csv
+
+Se sobreescribe el archivo *coronavirus.csv* que inicialmente tenia los datos ingresados manualmente.
+
+Este script se ejecuta todos los días a las 11:40 am (minutos previos a esta hora ya está actualizada la tabla en la pagina del gobierno) gracias a la ejecución en la nube de *scrapping.py*.
 
 El archivo *coronavirus.csv* subido en este repositorio posee los datos obtenidos manualmente para que vean a modo de ejemplo como es el formato del data-set.
 
@@ -35,7 +41,7 @@ Ejemplo: primer día de contagio en Chile (03 de marzo de 2019).
 
 ## Uso
 
-La idea es simplemente consumir *coronavirus.csv* sin la necesidad de pasar por alguna API.
+La idea es simplemente consumir *http://geraldbustos.000webhostapp.com/coronavirus.csv* sin la necesidad de pasar por alguna API.
 
 Una de las utilidades que le podemos dar a esto es cargar el archivo a power bi y generar reportes con los datos. Además power bi tiene la opción de actualizar la fuente de datos de manera automática dejando el trabajo totalmente automatizado.
 
