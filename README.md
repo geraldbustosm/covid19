@@ -10,9 +10,9 @@ Se realiza el scrapping a https://e.infogram.com/d9e30e4b-e63c-4e02-a72a-eca4653
 
 Posterior a eso, se envian los datos a una API en PHP que luego de recibirla analiza el JSON entrante y añade nuevas filas a *coronavirus.csv* y finalmente se sobreescribe el archivo.
 
-Este script se ejecuta todos los días a las 11:40 am (minutos previos a esta hora ya está actualizada la tabla en la pagina del gobierno) gracias a la ejecución en la nube de *scrapping.py*.
+Este script se ejecuta todos los días a las 11:50 am (minutos previos a esta hora ya está actualizada la tabla en la pagina del gobierno) gracias a la ejecución en la nube de *scrapping.py*.
 
-El archivo *coronavirus.csv* subido en este repositorio posee los datos obtenidos manualmente para que vean a modo de ejemplo como es el formato del data-set.
+El archivo *example-coronavirus.csv* subido en este repositorio posee los datos obtenidos manualmente para que vean a modo de ejemplo como es el formato del data-set.
 
 ## Estructura
 
