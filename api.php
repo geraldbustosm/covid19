@@ -13,7 +13,7 @@ $headers = apache_request_headers();
 if($method == "POST" && isset($data) && count($data) == 18 && $headers['PASSWORD'] == "YOURPASSWORDAPI"){
     $csv = fopen('coronavirus.csv', 'a');
     for($i=1;$i<count($data)-1;$i++){
-        $line = array($data[$i][0], date('d-m-Y'), $data[$i][2], $data[$i][4]);
+        $line = array($data[$i][0], date('d-m-Y'), $data[$i][1], $data[$i][5]);
         fputcsv($csv, $line);
     }
     fclose($csv);
