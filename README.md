@@ -23,20 +23,20 @@ Ejemplo: primer día de contagio en Chile (03 de marzo de 2019).
 | Región             | Fecha      | Contagiados | Decesos |
 | ------------------ | ---------- | ----------- | ------- |
 | Arica y Parinacota | 03-03-2020 | 0           | 0       |
-| Tarapacá           | 03-03-2020 | 0           | 0       |
+| Tarapaca           | 03-03-2020 | 0           | 0       |
 | Antofagasta        | 03-03-2020 | 0           | 0       |
 | Atacama            | 03-03-2020 | 0           | 0       |
 | Coquimbo           | 03-03-2020 | 0           | 0       |
-| Valparaíso         | 03-03-2020 | 0           | 0       |
+| Valparaiso         | 03-03-2020 | 0           | 0       |
 | Metropolitana      | 03-03-2020 | 0           | 0       |
-| O’Higgins          | 03-03-2020 | 0           | 0       |
+| O'Higgins          | 03-03-2020 | 0           | 0       |
 | Maule              | 03-03-2020 | 1           | 0       |
-| Ñuble              | 03-03-2020 | 0           | 0       |
-| Biobío             | 03-03-2020 | 0           | 0       |
-| Araucanía          | 03-03-2020 | 0           | 0       |
-| Los Ríos           | 03-03-2020 | 0           | 0       |
+| Nuble              | 03-03-2020 | 0           | 0       |
+| Biobio             | 03-03-2020 | 0           | 0       |
+| Araucania          | 03-03-2020 | 0           | 0       |
+| Los Rios           | 03-03-2020 | 0           | 0       |
 | Los Lagos          | 03-03-2020 | 0           | 0       |
-| Aysén              | 03-03-2020 | 0           | 0       |
+| Aysen              | 03-03-2020 | 0           | 0       |
 | Magallanes         | 03-03-2020 | 0           | 0       |
 
 ## Uso
