@@ -1,4 +1,4 @@
-# Web scrapping a Minsal
+# COVID19, Historico regional
 
 ## Resumen
 
@@ -6,11 +6,13 @@ Debido a que la mayoría de la información recopilada sobre el COVID-19 en Chil
 
 ## ¿Cómo funciona?
 
-Se realiza el scrapping a https://e.infogram.com/d9e30e4b-e63c-4e02-a72a-eca4653f3283, puesto que allí se contienen los datos. Este infograma esta insertado en un iframe dentro de https://www.gob.cl/coronavirus/cifrasoficiales. 
+Inicialmente se realizaba web scrapping a https://e.infogram.com/d9e30e4b-e63c-4e02-a72a-eca4653f3283, puesto que allí se contienen los datos. Este infograma esta insertado en un iframe dentro de https://www.gob.cl/coronavirus/cifrasoficiales. 
 
 Posterior a eso, se envian los datos a una API en PHP que luego de recibirla analiza el JSON entrante y añade nuevas filas a *coronavirus.csv* y finalmente se sobreescribe el archivo.
 
 Este script se ejecuta todos los días a las 13:00 horas (minutos previos a esta hora ya está actualizada la tabla en la pagina del gobierno) gracias a la ejecución en la nube de *scrapping.py*.
+
+Actualmente, se decidió consumir directamente el csv proporcionado por Ministerio de Ciencias en github (producto4) para ir acumulando los datos en el archivo que se entrega aca. De esta forma, se evitan posibles errores generados por el scrapping (a veces publicaban valores con comas y otras veces no).
 
 El archivo *example-coronavirus.csv* subido en este repositorio posee los datos obtenidos manualmente para que vean a modo de ejemplo como es el formato del data-set.
 
