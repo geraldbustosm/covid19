@@ -26,7 +26,7 @@ Ejemplo: primer día de contagio en Chile (03 de marzo de 2019).
 | Atacama            | 03-03-2020 | 0           | 0       |
 | Coquimbo           | 03-03-2020 | 0           | 0       |
 | Valparaíso         | 03-03-2020 | 0           | 0       |
-| RM                 | 03-03-2020 | 0           | 0       |
+| Metropolitana      | 03-03-2020 | 0           | 0       |
 | O’Higgins          | 03-03-2020 | 0           | 0       |
 | Maule              | 03-03-2020 | 1           | 0       |
 | Ñuble              | 03-03-2020 | 0           | 0       |
