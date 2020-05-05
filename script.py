@@ -1,28 +1,32 @@
 import requests
 import json
-from ast import literal_eval
+import datetime
 
-# Setup
-user_agent = 'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0'
-url = 'https://e.infogram.com/d9e30e4b-e63c-4e02-a72a-eca4653f3283'
-headers = {'User-agent' : user_agent}
+date = datetime.datetime.now()
 
-# Make GET request to infogram.com
-res = requests.get(url, headers=headers)
-src = res.text
-
-# Get the array like raw string
-begin = src.find('[[') + 1
-end = src.find(']]') + 2
-string_array = src[begin : end]
-
-# Convert string list into array
-array = literal_eval(string_array)
+res = requests.get('https://raw.githubusercontent.com/MinCiencia/Datos-COVID19/master/output/producto4/' + date.strftime("%Y-%m-%d") + '-CasosConfirmados-totalRegional.csv')
+csv = res.text
+text = ""
+data = []
+subdata = []
+i = 0
+while(i < len(csv)):
+    if(i < len(csv) - 1 and csv[i] == ' ' and csv[i+1] == ' '):
+        i = i + 1
+    if(csv[i] != ',' and csv[i] != '\n' and csv[i] != '\r'):
+        text = text + csv[i]
+    if(csv[i] == ',' or csv[i] == '\n' or i == len(csv)-1):
+        subdata.append(text)
+        text = ""
+    if(csv[i] == '\n' or i == len(csv)-1):
+        data.append(subdata.copy())
+        subdata.clear()
+    i = i + 1
 
 #Convert list into json
-json = json.dumps(array)
+json = json.dumps(data)
 
 # Make POST request to the API
-res = requests.post('http://localhost:8000/api.php', data=json, headers={'PASSWORD' :'YOURPASSWORDAPI'})
+res = requests.post('http://geraldbustos.000webhostapp.com/api.php', data=json, headers={'PASSWORD' :'YOURPASSWORD'})
 
 print(res.status_code)
