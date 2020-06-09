@@ -32,6 +32,6 @@ while(i < len(csv)):
 json = json.dumps(data)
 
 # Make POST request to the API
-res = requests.post('http://geraldbustos.000webhostapp.com/api.php', data=json, headers={'PASSWORD' :'YOURPASSWORD'})
+res = requests.post('http://domain.com/api.php', data=json, headers={'PASSWORD' :'YOURPASSWORD'})
 
 print(res.status_code)
